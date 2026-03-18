@@ -14,8 +14,24 @@ This is the coding-along webpage for the IPN Winter School workshop **“A (Gent
 ## Block 0: Using Google Colab and Python
 - <a href="https://colab.research.google.com/drive/1-evoJQiQ5xHWe4BAuBtqXc3cc8wGn7Fj?usp=sharing" target="_blank" rel="noopener">Getting Started ↗</a>
 
-## Block 1: Build your own NLP Pipeline using NLTK
-- <a href="https://colab.research.google.com/drive/1M6uiX-u9J1HyjhQVvHtTmAxwkU5--5U9?usp=sharing" target="_blank" rel="noopener">NLTK Pipeline ↗</a>
+## Block 1.a: Build your own NLP Pipeline using NLTK
+- <a href="https://colab.research.google.com/drive/1Fqv_SCn6fGNzol_XKRhc6MbXfhcXTGlw?usp=sharing" target="_blank" rel="noopener">NLTK Pipeline ↗</a>
+
+## Block 1.b: Text Complexity
+- <a href="https://colab.research.google.com/drive/1M6uiX-u9J1HyjhQVvHtTmAxwkU5--5U9?usp=sharing" target="_blank" rel="noopener">Text Complexity ↗</a>
+
+Download these 3 txt files.
+<ul>
+  <li>
+    <a href="https://github.com/melanchthon19/ipn-winter-school/tree/main/data/operasinger/operasinger_A.txt" download>file1.txt</a>
+  </li>
+  <li>
+    <a href="https://github.com/melanchthon19/ipn-winter-school/tree/main/data/operasinger/operasinger_B.txt" download>file2.txt</a>
+  </li>
+  <li>
+    <a href="https://github.com/melanchthon19/ipn-winter-school/tree/main/data/operasinger/operasinger_C.txt" download>file3.txt</a>
+  </li>
+</ul>
 
 ## Block 2: Textual Similarity
 - <a href="https://colab.research.google.com/drive/19HlYHnT60HkQW6dCaFDk4d6fgM0LsT2_?usp=sharing" target="_blank" rel="noopener">Textual Similarity ↗</a>

@@ -7,3 +7,5 @@ Gemfile.lock
 
 # custom
 .DS_Store
+.ipynb_checkpoints/
+*.ipynb
