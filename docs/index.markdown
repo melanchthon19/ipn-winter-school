@@ -23,13 +23,13 @@ This is the coding-along webpage for the IPN Winter School workshop **“A (Gent
 Download these 3 txt files.
 <ul>
   <li>
-    <a href="https://github.com/melanchthon19/ipn-winter-school/tree/main/data/operasinger/operasinger_A.txt" download>file1.txt</a>
+    <a href="https://github.com/melanchthon19/ipn-winter-school/blob/main/data/operasinger/operasinger_A.txt" download>file1.txt</a>
   </li>
   <li>
-    <a href="https://github.com/melanchthon19/ipn-winter-school/tree/main/data/operasinger/operasinger_B.txt" download>file2.txt</a>
+    <a href="https://github.com/melanchthon19/ipn-winter-school/blob/main/data/operasinger/operasinger_B.txt" download>file2.txt</a>
   </li>
   <li>
-    <a href="https://github.com/melanchthon19/ipn-winter-school/tree/main/data/operasinger/operasinger_C.txt" download>file3.txt</a>
+    <a href="https://github.com/melanchthon19/ipn-winter-school/blob/main/data/operasinger/operasinger_C.txt" download>file3.txt</a>
   </li>
 </ul>
 
