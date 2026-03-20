@@ -36,6 +36,13 @@ Download these 3 txt files (right-click --> save link as).
 ## Block 2: Textual Similarity
 - <a href="https://colab.research.google.com/drive/19HlYHnT60HkQW6dCaFDk4d6fgM0LsT2_?usp=sharing" target="_blank" rel="noopener">Textual Similarity ↗</a>
 
+Download the dataset (right-click --> save link as).
+<ul>
+  <li>
+    <a href="https://raw.githubusercontent.com/melanchthon19/ipn-winter-school/refs/heads/main/data/semeval2013/semeval-sas.tsv" download>semeval-sas.csv</a>
+  </li>
+</ul>
+
 ## Block 3: Distributional Semantics
 - <a href="https://colab.research.google.com/drive/1Q9VgmvQVsvmv8kCRgwu2gNgJfZ2TAHFL?usp=sharing" target="_blank" rel="noopener">Distributional Semantics ↗</a>
 
