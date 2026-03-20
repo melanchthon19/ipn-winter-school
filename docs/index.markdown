@@ -23,13 +23,13 @@ This is the coding-along webpage for the IPN Winter School workshop **“A (Gent
 Download these 3 txt files.
 <ul>
   <li>
-    <a href="https://github.com/melanchthon19/ipn-winter-school/blob/main/data/operasinger/operasinger_A.txt" download>file1.txt</a>
+    <a href="https://raw.githubusercontent.com/melanchthon19/ipn-winter-school/refs/heads/main/data/operasinger/operasinger_A.txt" download>file1.txt</a>
   </li>
   <li>
-    <a href="https://github.com/melanchthon19/ipn-winter-school/blob/main/data/operasinger/operasinger_B.txt" download>file2.txt</a>
+    <a href="https://raw.githubusercontent.com/melanchthon19/ipn-winter-school/refs/heads/main/data/operasinger/operasinger_B.txt" download>file2.txt</a>
   </li>
   <li>
-    <a href="https://github.com/melanchthon19/ipn-winter-school/blob/main/data/operasinger/operasinger_C.txt" download>file3.txt</a>
+    <a href="https://raw.githubusercontent.com/melanchthon19/ipn-winter-school/refs/heads/main/data/operasinger/operasinger_C.txt" download>file3.txt</a>
   </li>
 </ul>
 
@@ -41,9 +41,15 @@ Download these 3 txt files.
 
 # Day 2
 
-## Block 4: Automated Scoring
-- <a href="https://colab.research.google.com/drive/1GzkjKrwFVavA7_PAcLd7cUNEicH9kvss?usp=sharing" target="_blank" rel="noopener">Automated Scoring ↗</a>
+## Block 4: Supervised Machine Learning
+- <a href="https://colab.research.google.com/drive/1GzkjKrwFVavA7_PAcLd7cUNEicH9kvss?usp=sharing" target="_blank" rel="noopener">Distributional Semantics ↗</a>
 
-## Block 5
+## Block 5: Short-Answer-Scoring
+- <a href="https://colab.research.google.com/drive/1YKmKjrVDo9bH_KAyNtrdJcxgu1fCQcY7?usp=sharing" target="_blank" rel="noopener">Automated Scoring ↗</a>
 
-## Block 6
+Download the dataset.
+<ul>
+  <li>
+    <a href="https://raw.githubusercontent.com/melanchthon19/ipn-winter-school/refs/heads/main/data/asap/asap-sas.tsv" download>asap-sas.tsv</a>
+  </li>
+</ul>
