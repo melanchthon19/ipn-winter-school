@@ -20,7 +20,7 @@ This is the coding-along webpage for the IPN Winter School workshop **“A (Gent
 ## Block 1.b: Text Complexity
 - <a href="https://colab.research.google.com/drive/1M6uiX-u9J1HyjhQVvHtTmAxwkU5--5U9?usp=sharing" target="_blank" rel="noopener">Text Complexity ↗</a>
 
-Download these 3 txt files.
+Download these 3 txt files (right-click --> save link as).
 <ul>
   <li>
     <a href="https://raw.githubusercontent.com/melanchthon19/ipn-winter-school/refs/heads/main/data/operasinger/operasinger_A.txt" download>file1.txt</a>
@@ -47,7 +47,7 @@ Download these 3 txt files.
 ## Block 5: Short-Answer-Scoring
 - <a href="https://colab.research.google.com/drive/1YKmKjrVDo9bH_KAyNtrdJcxgu1fCQcY7?usp=sharing" target="_blank" rel="noopener">Automated Scoring ↗</a>
 
-Download the dataset.
+Download the dataset (right-click --> save link as).
 <ul>
   <li>
     <a href="https://raw.githubusercontent.com/melanchthon19/ipn-winter-school/refs/heads/main/data/asap/asap-sas.tsv" download>asap-sas.tsv</a>
