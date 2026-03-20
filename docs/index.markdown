@@ -42,10 +42,10 @@ Download these 3 txt files (right-click --> save link as).
 # Day 2
 
 ## Block 4: Supervised Machine Learning
-- <a href="https://colab.research.google.com/drive/1GzkjKrwFVavA7_PAcLd7cUNEicH9kvss?usp=sharing" target="_blank" rel="noopener">Distributional Semantics ↗</a>
+- <a href="https://colab.research.google.com/drive/1GzkjKrwFVavA7_PAcLd7cUNEicH9kvss?usp=sharing" target="_blank" rel="noopener">Supervised Machine Learning ↗</a>
 
 ## Block 5: Short-Answer-Scoring
-- <a href="https://colab.research.google.com/drive/1YKmKjrVDo9bH_KAyNtrdJcxgu1fCQcY7?usp=sharing" target="_blank" rel="noopener">Automated Scoring ↗</a>
+- <a href="https://colab.research.google.com/drive/1YKmKjrVDo9bH_KAyNtrdJcxgu1fCQcY7?usp=sharing" target="_blank" rel="noopener">Short-Answer-Scoring ↗</a>
 
 Download the dataset (right-click --> save link as).
 <ul>
