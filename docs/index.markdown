@@ -39,7 +39,7 @@ Download these 3 txt files (right-click --> save link as).
 Download the dataset (right-click --> save link as).
 <ul>
   <li>
-    <a href="https://raw.githubusercontent.com/melanchthon19/ipn-winter-school/refs/heads/main/data/semeval2013/semeval-sas.tsv" download>semeval-sas.csv</a>
+    <a href="https://raw.githubusercontent.com/melanchthon19/ipn-winter-school/refs/heads/main/data/semeval2013/semeval-sas.csv" download>semeval-sas.csv</a>
   </li>
 </ul>
 
